@@ -7,7 +7,7 @@ import Editcontact from "./components/contacts/editcontact";
 import Header from "./components/layouts/header";
 import { Provider } from "./context";
 import Notfound from "./components/pages/notfound";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
